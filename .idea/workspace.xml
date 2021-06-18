@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95290bc4-81dd-463b-9ffa-c0593a6bb0ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s2RuJp2AfegBINGxBG5qGYhIya" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/q_project" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Documents\PythonProjects\work_project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95290bc4-81dd-463b-9ffa-c0593a6bb0ec" name="Default Changelist" comment="" />
+      <created>1620068918787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620068918787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="155" key="#Project_Structure" timestamp="1620069083329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="155" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1620069083329" />
+    <state x="944" y="335" key="FileChooserDialogImpl" timestamp="1623598682537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="944" y="335" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623598682537" />
+    <state x="574" y="166" key="SettingsEditor" timestamp="1623598656279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1623598656279" />
+    <state x="755" y="241" key="new project wizard" timestamp="1620068951249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="241" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1620068951249" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
