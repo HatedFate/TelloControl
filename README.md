@@ -1,1 +1,1 @@
-I was drunk while I wrote this.
+I was drunk when I wrote this.
