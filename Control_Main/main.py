@@ -20,6 +20,7 @@ class Drone:
     @staticmethod
     def landing():
         drone.land()
+        drone.end()
 
     @staticmethod
     def camera():
